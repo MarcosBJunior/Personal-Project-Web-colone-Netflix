@@ -1,6 +1,6 @@
 # Personal-Project-Web-colone-Netflix
 
-
+![gif2](https://user-images.githubusercontent.com/69303138/113956236-8b9b7400-97f3-11eb-8d69-eb5e608ec271.gif)
 
 ## 👨‍💻 **Projeto**👨‍💻
 
