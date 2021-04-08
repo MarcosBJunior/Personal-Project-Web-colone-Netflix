@@ -11,9 +11,10 @@ O projeto **Web-colone-Netflix** é baseado na recriação da interface web da n
 ## ⌨ **Linguagens Utilizadas no Projeto**⌨ 
 
 
- ![file_type_html_icon_130541](https://user-images.githubusercontent.com/69303138/113502725-7f1dcf80-9504-11eb-9e43-2e8955d6933d.png)  
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
- ![file_type_css_icon_130661](https://user-images.githubusercontent.com/69303138/113502736-9bba0780-9504-11eb-8021-e8d7aad8656c.png)  
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
 
 
 ## 🚀 **Tecnologias Utilizadas no Projeto**🚀
